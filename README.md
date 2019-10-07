@@ -243,3 +243,8 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 ![debugging](./images/Debugging.jpg)
 
 ***
+
+My girlfriend told me to take the spider out instead of killing it.
+We went and had some drinks.Cool guy.Wants to be a web developer.
+
+***
